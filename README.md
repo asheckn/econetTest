@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Figma Design Link
+Use the link https://www.figma.com/design/fXl1yl5SEfnlIOaLAaPwbF/Econet-Collaborative-Dashboard-UI?node-id=2-43&t=2zXKWdJoIAoKtxBb-1 to access the figma  file
+
+
+## Google Docs File
+Use the google docs link https://docs.google.com/document/d/1y5WIQ4lPfcyC_w14RTmSJQ4XlkVKSyQ6w5v-lqeMHyo/edit?usp=sharing
+
+
