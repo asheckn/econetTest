@@ -33,4 +33,7 @@ Use the link https://www.figma.com/design/fXl1yl5SEfnlIOaLAaPwbF/Econet-Collabor
 ## Google Docs File
 Use the google docs link https://docs.google.com/document/d/1y5WIQ4lPfcyC_w14RTmSJQ4XlkVKSyQ6w5v-lqeMHyo/edit?usp=sharing
 
+## Video Link 
+Use this link to see the video https://drive.google.com/drive/folders/1xk2G1jklOlLSuT_E9VBKlOw8jgobOuHi?usp=sharing
+
 
